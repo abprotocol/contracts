@@ -1,0 +1,37 @@
+{
+	"compiler": {
+		"version": "0.5.17+commit.d19bba13"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/ABP.sol": "Roles"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/ABP.sol": {
+			"keccak256": "0x9d28dd7d29c696fa956798d911ad4e5b64fee5099ea64ff12f74a7e76703fc71",
+			"urls": [
+				"bzz-raw://ee560d837e6d5eb4d5bf134c0ff12d393ef66fdda017c300c93cc51479f26bb3",
+				"dweb:/ipfs/QmX9B8e29tj8EwyaVEMduHg9a2bWC86CgJyMShjG2JCZGT"
+			]
+		}
+	},
+	"version": 1
+}
